@@ -1,0 +1,1 @@
+<img src="{{ asset('images/sinmaperpus.png') }}" alt="Logo" class="block h-16 w-auto">
